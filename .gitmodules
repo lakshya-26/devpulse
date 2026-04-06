@@ -1,0 +1,6 @@
+[submodule "devpulse-frontend"]
+	path = devpulse-frontend
+	url = https://github.com/lakshya-26/devpulse-frontend.git
+[submodule "devpulse-backend"]
+	path = devpulse-backend
+	url = https://github.com/lakshya-26/devpulse-backend.git
